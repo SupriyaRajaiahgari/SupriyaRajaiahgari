@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Full stack developing course.
 - 🤔 I’m Intrested in Reading books.
 - 💬  I'm from India.
-- 📫 You can reach me by my Mail I'd **S566492@nwmissouri.edu**
+- 📫 You can reach me by my Mail I'd **S566492@nwmissouri.edu.**
